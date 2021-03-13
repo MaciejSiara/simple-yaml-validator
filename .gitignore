@@ -1,3 +1,4 @@
 .vscode/
 parser.pyc
 scanner.pyc
+productions.pyc
